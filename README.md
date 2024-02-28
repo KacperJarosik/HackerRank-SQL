@@ -3,7 +3,7 @@ My solution to exercises from HackerRank website
 
 LINK TO EXERCISES
 
-# Basic Select
+## Basic Select
 
 TASK: https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
 
