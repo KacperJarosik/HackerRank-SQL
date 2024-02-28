@@ -25,3 +25,7 @@ TASK: https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=
 - [Japanese Cities' Attributes](<Basic Select/Japanese Cities' Attributes.sql>)
 
 TASK: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
+
+- [Weather Observation Station 1](<Basic Select/Weather Observation Station 1>)
+
+TASL: https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true
