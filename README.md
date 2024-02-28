@@ -28,4 +28,8 @@ TASK: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?i
 
 - [Weather Observation Station 1](<Basic Select/Weather Observation Station 1.sql>)
 
-TASL: https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true
+TASK: https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true
+
+- [Weather Observation Station 3.sql](<Basic Select/Weather Observation Station 1.sql>)
+
+TASK: https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true
