@@ -5,9 +5,8 @@ LINK TO EXERCISES
 
 ## Basic Select
 
-- TASK: https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
-
-SOLUTION: [Revising the Select Query I](<Basic Select/Revising the Select Query I.sql>)
+- [Revising the Select Query I](<Basic Select/Revising the Select Query I.sql>)
+TASK: https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
 
 - TASK: https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true
 
