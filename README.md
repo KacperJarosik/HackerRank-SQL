@@ -24,4 +24,4 @@ TASK: https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=
 
 - [Japanese Cities' Attributes](<Basic Select/Japanese Cities' Attributes.sql>)
 
-- TASK: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
+TASK: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
