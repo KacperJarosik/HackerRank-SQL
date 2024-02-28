@@ -24,3 +24,5 @@ SOLUTION: [Select By ID](<Basic Select/Select By ID.sql>)
 TASK: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
 
 SOLUTION: [Japanese Cities' Attributes](<Basic Select/Japanese Cities' Attributes.sql>)
+
+[technologie](#technologie)
