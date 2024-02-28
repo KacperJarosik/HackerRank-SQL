@@ -6,7 +6,7 @@ LINK TO EXERCISES
 # Basic Select
 [Revising the Select Query I](<Basic Select/Revising the Select Query I.sql>)
 
-TASK: https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
+  https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
 
 [Basic Select/Revising the Select Query II](<Basic Select/Revising the Select Query II.sql>)
 
