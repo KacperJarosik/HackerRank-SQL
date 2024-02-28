@@ -2,6 +2,7 @@
 My solution to exercises from HackerRank website
 
 LINK TO EXERCISES
+
 Basic Select
     [Revising the Select Query I](<Basic Select/Revising the Select Query I.sql>)
     TASK: https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
