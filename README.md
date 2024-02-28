@@ -3,7 +3,7 @@ My solution to exercises from HackerRank website
 
 LINK TO EXERCISES
 Basic Select
-    [Basic Select/Revising the Select Query I](<Basic Select/Revising the Select Query I.sql>)
+    [Revising the Select Query I](<Basic Select/Revising the Select Query I.sql>)
     TASK: https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
     [Basic Select/Revising the Select Query II](<Basic Select/Revising the Select Query II.sql>)
     TASK: https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true
