@@ -1,7 +1,7 @@
 # SQL-HackerRank
 My solution to exercises from HackerRank website
 
-LINK TO EXERCISES
+LINKS TO SOLUTIONS AND EXERCISES
 
 ## Basic Select
 
