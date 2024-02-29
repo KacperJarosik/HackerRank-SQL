@@ -85,3 +85,7 @@ TASK: https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScre
 - [Employee Salaries.sql](<Basic/Employee Salaries.sql>)
 
 TASK: https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true
+
+- [Create Type of Triangle.sql](<Basic/Create Type of Triangle.sql>)
+
+TASK: https://hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true
