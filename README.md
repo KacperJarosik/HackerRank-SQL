@@ -5,79 +5,79 @@ LINKS TO SOLUTIONS AND EXERCISES
 
 ## Basic Select
 
-- [Revising the Select Query I.sql](<Basic Select/Revising the Select Query I.sql>)
+- [Revising the Select Query I.sql](<Basic/Revising the Select Query I.sql>)
 
 TASK: https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
 
-- [Basic Select/Revising the Select Query II.sql](<Basic Select/Revising the Select Query II.sql>)
+- [Basic Select/Revising the Select Query II.sql](<Basic/Revising the Select Query II.sql>)
 
 TASK: https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true
 
 
-- [Select All.sql](<Basic Select/Select All.sql>)
+- [Select All.sql](<Basic/Select All.sql>)
 
 TASK: https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true
 
-- [Select By ID.sql](<Basic Select/Select By ID.sql>)
+- [Select By ID.sql](<Basic/Select By ID.sql>)
   
 TASK: https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true
 
-- [Japanese Cities' Attributes.sql](<Basic Select/Japanese Cities' Attributes.sql>)
+- [Japanese Cities' Attributes.sql](<Basic/Japanese Cities' Attributes.sql>)
 
 TASK: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
 
-- [Weather Observation Station 1.sql](<Basic Select/Weather Observation Station 1.sql>)
+- [Weather Observation Station 1.sql](<Basic/Weather Observation Station 1.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true
 
-- [Weather Observation Station 3.sql](<Basic Select/Weather Observation Station 3.sql>)
+- [Weather Observation Station 3.sql](<Basic/Weather Observation Station 3.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true
 
-- [Weather Observation Station 4.sql](<Basic Select/Weather Observation Station 4.sql>)
+- [Weather Observation Station 4.sql](<Basic/Weather Observation Station 4.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true
 
-- [Weather Observation Station 5.sql](<Basic Select/Weather Observation Station 5.sql>)
+- [Weather Observation Station 5.sql](<Basic/Weather Observation Station 5.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true
 
-- [Weather Observation Station 6.sql](<Basic Select/Weather Observation Station 6.sql>)
+- [Weather Observation Station 6.sql](<Basic/Weather Observation Station 6.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true
 
-- [Weather Observation Station 7.sql](<Basic Select/Weather Observation Station 7.sql>)
+- [Weather Observation Station 7.sql](<Basic/Weather Observation Station 7.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true
 
-- [Weather Observation Station 8.sql](<Basic Select/Weather Observation Station 8.sql>)
+- [Weather Observation Station 8.sql](<Basic/Weather Observation Station 8.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true
 
-- [Weather Observation Station 9.sql](<Basic Select/Weather Observation Station 9.sql>)
+- [Weather Observation Station 9.sql](<Basic/Weather Observation Station 9.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true
 
-- [Weather Observation Station 10.sql](<Basic Select/Weather Observation Station 10.sql>)
+- [Weather Observation Station 10.sql](<Basic/Weather Observation Station 10.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true
 
-- [Weather Observation Station 11.sql](<Basic Select/Weather Observation Station 11.sql>)
+- [Weather Observation Station 11.sql](<Basic/Weather Observation Station 11.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true
 
-- [Weather Observation Station 12.sql](<Basic Select/Weather Observation Station 12.sql>)
+- [Weather Observation Station 12.sql](<Basic/Weather Observation Station 12.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true
 
-- [Higher Than 75 Marks.sql](<Basic Select/Higher Than 75 Marks.sql>)
+- [Higher Than 75 Marks.sql](<Basic/Higher Than 75 Marks.sql>)
 
 TASK: https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true
 
-- [Employee Names.sql](<Basic Select/Employee Names.sql>)
+- [Employee Names.sql](<Basic/Employee Names.sql>)
 
 TASK: https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true
 
-- [Employee Salaries.sql](<Basic Select/Employee Salaries.sql>)
+- [Employee Salaries.sql](<Basic/Employee Salaries.sql>)
 
 TASK: https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true
