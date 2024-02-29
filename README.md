@@ -73,3 +73,7 @@ TASK: https://www.hackerrank.com/challenges/weather-observation-station-12/probl
 - [Higher Than 75 Marks.sql](<Basic Select/Higher Than 75 Marks.sql>)
 
 TASK: https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true
+
+- [Employee Names.sql](<Basic Select/Employee Names.sql>)
+
+TASK: https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true
