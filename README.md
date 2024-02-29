@@ -53,3 +53,7 @@ TASK: https://www.hackerrank.com/challenges/weather-observation-station-7/proble
 - [Weather Observation Station 8.sql](<Basic Select/Weather Observation Station 8.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true
+
+- [Weather Observation Station 9.sql](<Basic Select/Weather Observation Station 9.sql>)
+
+TASK: https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true
