@@ -69,3 +69,7 @@ TASK: https://www.hackerrank.com/challenges/weather-observation-station-11/probl
 - [Weather Observation Station 12.sql](<Basic Select/Weather Observation Station 12.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true
+
+- [Higher Than 75 Marks.sql](<Basic Select/Higher Than 75 Marks.sql>)
+
+TASK: https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true
