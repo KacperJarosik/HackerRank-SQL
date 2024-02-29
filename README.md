@@ -82,7 +82,7 @@ TASK: https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScr
 
 TASK: https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true
 
-- [Employee Salaries.sql](<Basic/Employee Salaries.sql>)
+- [Employee Salaries.sql](<Basic/Type of Triangle.sql>)
 
 TASK: https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true
 
