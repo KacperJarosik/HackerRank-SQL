@@ -26,6 +26,10 @@ TASK: https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=
 
 TASK: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
 
+- [Japanese Cities' Names.sql](<Basic/Japanese Cities' Names.sql>)
+
+TASK: https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true
+
 - [Weather Observation Station 1.sql](<Basic/Weather Observation Station 1.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true
