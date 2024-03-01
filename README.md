@@ -105,3 +105,7 @@ TASK: https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?is
 - [Revising Aggregations - Averages.sql](<Basic/Revising Aggregations - Averages.sql>)
 
 TASK: https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true
+
+- [Average Population.sql](<Basic/Average Population.sql>)
+
+TASK: https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true
