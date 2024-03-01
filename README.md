@@ -113,3 +113,7 @@ TASK: https://www.hackerrank.com/challenges/average-population/problem?isFullScr
 - [Japan Population.sql](<Basic/Japan Population.sql>)
 
 TASK: https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true
+
+- [Population Density Difference.sql](<Basic/Population Density Difference.sql>)
+
+TASK: https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true
