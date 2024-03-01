@@ -109,3 +109,7 @@ TASK: https://www.hackerrank.com/challenges/revising-aggregations-the-average-fu
 - [Average Population.sql](<Basic/Average Population.sql>)
 
 TASK: https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true
+
+- [Japan Population.sql](<Basic/Japan Population.sql>)
+
+TASK: https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true
