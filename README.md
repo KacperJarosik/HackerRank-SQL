@@ -97,3 +97,7 @@ TASK: https://hackerrank.com/challenges/what-type-of-triangle/problem?isFullScre
 - [Revising Aggregations - The Count Function.sql](<Basic/Revising Aggregations - The Count Function.sql>)
 
 TASK: https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true
+
+- [Revising Aggregations - The Sum Function.sql](<Basic/Revising Aggregations - The Sum Function.sql>)
+
+TASK: https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true
