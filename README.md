@@ -121,3 +121,7 @@ TASK: https://www.hackerrank.com/challenges/population-density-difference/proble
 - [African Cities.sql](<Basic/African Cities.sql>)
 
 TASK: https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true
+
+- [Population Census.sql](<Basic/Population Census.sql>)
+
+TASK: https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true
