@@ -1,5 +1,5 @@
-# SQL-HackerRank
-My solution to exercises from HackerRank website
+# SQL-HackerRank - MS SQL SERVER
+My solution to exercises from HackerRank website. I write whole code in MS SQL SERVER.
 
 LINKS TO SOLUTIONS AND EXERCISES
 
