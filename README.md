@@ -93,3 +93,7 @@ TASK: https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullSc
 - [Type of Triangle.sql](<Basic/Type of Triangle.sql>)
 
 TASK: https://hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true
+
+- [Revising Aggregations - The Count Function.sql](<Basic/Revising Aggregations - The Count Function.sql>)
+
+TASK: https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true
