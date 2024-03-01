@@ -125,3 +125,7 @@ TASK: https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=
 - [Population Census.sql](<Basic/Population Census.sql>)
 
 TASK: https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true
+
+- [Average Population of Each Continent.sql](<Basic/Average Population of Each Continent.sql>)
+
+TASK: https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true
