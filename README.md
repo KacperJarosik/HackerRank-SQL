@@ -101,3 +101,7 @@ TASK: https://www.hackerrank.com/challenges/revising-aggregations-the-count-func
 - [Revising Aggregations - The Sum Function.sql](<Basic/Revising Aggregations - The Sum Function.sql>)
 
 TASK: https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true
+
+- [Revising Aggregations - Averages.sql](<Basic/Revising Aggregations - Averages.sql>)
+
+TASK: https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true
