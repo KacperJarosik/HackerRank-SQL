@@ -117,3 +117,7 @@ TASK: https://www.hackerrank.com/challenges/japan-population/problem?isFullScree
 - [Population Density Difference.sql](<Basic/Population Density Difference.sql>)
 
 TASK: https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true
+
+- [African Cities.sql](<Basic/African Cities.sql>)
+
+TASK: https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true
