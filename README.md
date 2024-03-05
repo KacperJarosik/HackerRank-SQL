@@ -137,3 +137,7 @@ TASK: https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFull
 - [Weather Observation Station 13.sql](<Basic/Weather Observation Station 13.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true
+
+- [Weather Observation Station 14.sql](<Basic/Weather Observation Station 14.sql>)
+
+TASK: https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true
