@@ -129,3 +129,7 @@ TASK: https://www.hackerrank.com/challenges/asian-population/problem?isFullScree
 - [Average Population of Each Continent.sql](<Basic/Average Population of Each Continent.sql>)
 
 TASK: https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true
+
+- [Top Earners.sql](<Basic/Top Earners.sql>)
+
+TASK: https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true
