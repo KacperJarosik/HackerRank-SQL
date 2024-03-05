@@ -78,6 +78,34 @@ TASK: https://www.hackerrank.com/challenges/weather-observation-station-11/probl
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true
 
+- [Weather Observation Station 13.sql](<Basic/Weather Observation Station 13.sql>)
+
+TASK: https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true
+
+- [Weather Observation Station 14.sql](<Basic/Weather Observation Station 14.sql>)
+
+TASK: https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true
+
+- [Weather Observation Station 15.sql](<Basic/Weather Observation Station 15.sql>)
+
+TASK: https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true
+
+- [Weather Observation Station 16.sql](<Basic/Weather Observation Station 16.sql>)
+
+TASK: https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true
+
+- [Weather Observation Station 17.sql](<Basic/Weather Observation Station 17.sql>)
+
+TASK: https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true
+
+- [Weather Observation Station 18.sql](<Basic/Weather Observation Station 18.sql>)
+
+TASK: https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true
+
+- [Weather Observation Station 19.sql](<Basic/Weather Observation Station 19.sql>)
+
+TASK: https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true
+
 - [Higher Than 75 Marks.sql](<Basic/Higher Than 75 Marks.sql>)
 
 TASK: https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true
@@ -134,34 +162,10 @@ TASK: https://www.hackerrank.com/challenges/average-population-of-each-continent
 
 TASK: https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true
 
-- [Weather Observation Station 13.sql](<Basic/Weather Observation Station 13.sql>)
-
-TASK: https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true
-
-- [Weather Observation Station 14.sql](<Basic/Weather Observation Station 14.sql>)
-
-TASK: https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true
-
-- [Weather Observation Station 15.sql](<Basic/Weather Observation Station 15.sql>)
-
-TASK: https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true
-
-- [Weather Observation Station 16.sql](<Basic/Weather Observation Station 16.sql>)
-
-TASK: https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true
-
-- [Weather Observation Station 17.sql](<Basic/Weather Observation Station 17.sql>)
-
-TASK: https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true
-
-- [Weather Observation Station 18.sql](<Basic/Weather Observation Station 18.sql>)
-
-TASK: https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true
-
-- [Weather Observation Station 19.sql](<Basic/Weather Observation Station 19.sql>)
-
-TASK: https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true
-
 - [The Blunder.sql](<Basic/The Blunder.sql>)
 
 TASK: https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true
+
+- [The PADS.sql](<Basic/The PADS.sql>)
+
+TASK: https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true
