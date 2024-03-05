@@ -133,3 +133,7 @@ TASK: https://www.hackerrank.com/challenges/average-population-of-each-continent
 - [Top Earners.sql](<Basic/Top Earners.sql>)
 
 TASK: https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true
+
+- [Weather Observation Station 13.sql](<Basic/Weather Observation Station 13.sql>)
+
+TASK: https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true
