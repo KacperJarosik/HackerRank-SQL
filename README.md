@@ -5,7 +5,7 @@ I write all the code in MS SQL SERVER.
 
 Below are LINKS TO SOLUTIONS AND EXERCISES sorted alphabetically by level of advancement.
 
-## Basic Select
+## Basic
 
 - [African Cities.sql](<Basic/African Cities.sql>)
 
