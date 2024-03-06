@@ -9,6 +9,10 @@ LINKS TO SOLUTIONS AND EXERCISES
 
 TASK: https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true
 
+- [Average Population.sql](<Basic/Average Population.sql>)
+
+TASK: https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true
+
 - [Average Population of Each Continent.sql](<Basic/Average Population of Each Continent.sql>)
 
 TASK: https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true
@@ -17,6 +21,18 @@ TASK: https://www.hackerrank.com/challenges/average-population-of-each-continent
 
 TASK: https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true
 
+- [Employee Names.sql](<Basic/Employee Names.sql>)
+
+TASK: https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true
+
+- [Employee Salaries.sql](<Basic/Type of Triangle.sql>)
+
+TASK: https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true
+
+- [Higher Than 75 Marks.sql](<Basic/Higher Than 75 Marks.sql>)
+
+TASK: https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true
+
 - [Japanese Cities' Attributes.sql](<Basic/Japanese Cities' Attributes.sql>)
 
 TASK: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
@@ -24,6 +40,30 @@ TASK: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?i
 - [Japanese Cities' Names.sql](<Basic/Japanese Cities' Names.sql>)
 
 TASK: https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true
+
+- [Japan Population.sql](<Basic/Japan Population.sql>)
+
+TASK: https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true
+
+- [Population Census.sql](<Basic/Population Census.sql>)
+
+TASK: https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true
+
+- [Population Density Difference.sql](<Basic/Population Density Difference.sql>)
+
+TASK: https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true
+
+- [Revising Aggregations - Averages.sql](<Basic/Revising Aggregations - Averages.sql>)
+
+TASK: https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true
+
+- [Revising Aggregations - The Count Function.sql](<Basic/Revising Aggregations - The Count Function.sql>)
+
+TASK: https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true
+
+- [Revising Aggregations - The Sum Function.sql](<Basic/Revising Aggregations - The Sum Function.sql>)
+
+TASK: https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true
 
 - [Revising the Select Query I.sql](<Basic/Revising the Select Query I.sql>)
 
@@ -36,6 +76,22 @@ TASK: https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=
 - [Select By ID.sql](<Basic/Select By ID.sql>)
   
 TASK: https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true
+
+- [The Blunder.sql](<Basic/The Blunder.sql>)
+
+TASK: https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true
+
+- [Top Earners.sql](<Basic/Top Earners.sql>)
+
+TASK: https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true
+
+- [The PADS.sql](<Basic/The PADS.sql>)
+
+TASK: https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true
+
+- [Type of Triangle.sql](<Basic/Type of Triangle.sql>)
+
+TASK: https://hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true
 
 - [Weather Observation Station 1.sql](<Basic/Weather Observation Station 1.sql>)
 
@@ -112,59 +168,3 @@ TASK: https://www.hackerrank.com/challenges/weather-observation-station-18/probl
 - [Weather Observation Station 19.sql](<Basic/Weather Observation Station 19.sql>)
 
 TASK: https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true
-
-- [Higher Than 75 Marks.sql](<Basic/Higher Than 75 Marks.sql>)
-
-TASK: https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true
-
-- [Employee Names.sql](<Basic/Employee Names.sql>)
-
-TASK: https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true
-
-- [Employee Salaries.sql](<Basic/Type of Triangle.sql>)
-
-TASK: https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true
-
-- [Type of Triangle.sql](<Basic/Type of Triangle.sql>)
-
-TASK: https://hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true
-
-- [Revising Aggregations - The Count Function.sql](<Basic/Revising Aggregations - The Count Function.sql>)
-
-TASK: https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true
-
-- [Revising Aggregations - The Sum Function.sql](<Basic/Revising Aggregations - The Sum Function.sql>)
-
-TASK: https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true
-
-- [Revising Aggregations - Averages.sql](<Basic/Revising Aggregations - Averages.sql>)
-
-TASK: https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true
-
-- [Average Population.sql](<Basic/Average Population.sql>)
-
-TASK: https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true
-
-- [Japan Population.sql](<Basic/Japan Population.sql>)
-
-TASK: https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true
-
-- [Population Density Difference.sql](<Basic/Population Density Difference.sql>)
-
-TASK: https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true
-
-- [Population Census.sql](<Basic/Population Census.sql>)
-
-TASK: https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true
-
-- [Top Earners.sql](<Basic/Top Earners.sql>)
-
-TASK: https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true
-
-- [The Blunder.sql](<Basic/The Blunder.sql>)
-
-TASK: https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true
-
-- [The PADS.sql](<Basic/The PADS.sql>)
-
-TASK: https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true
